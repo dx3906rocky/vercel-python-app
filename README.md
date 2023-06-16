@@ -10,8 +10,8 @@ vercel-python-app
    Just follow steps in the screenshots as below:
 
 <details>
-  <img height="600" src="./images/vercel_deploy_start.png" />
   <img height="600" src="./images/vercel_import.png" />
+  <img height="600" src="./images/vercel_deploy_start.png" />
   <img height="600" src="./images/vercel_deploy_kickoff.png" />
   <img height="600" src="./images/vercel_deploy_select_root_path.png" />
   <img height="600" src="./images/vercel_deploy_logs.png" />
