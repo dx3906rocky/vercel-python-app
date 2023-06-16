@@ -23,6 +23,10 @@ def portfolio():
 def contact():
     return 'Contact Page Route'
 
+@app.route('/cron/job')
+def cron_job():
+    return 'Hello cron'
+
 
 @app.route('/apis/data')
 def api():
